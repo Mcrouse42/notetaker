@@ -16,4 +16,6 @@ https://evening-basin-46543.herokuapp.com/
 
 ## Screenshot:
 
-<img src="" />
+<img src="https://github.com/Mcrouse42/notetaker/blob/master/public/assets/images/Homepage%201.png" />
+
+<img src="https://github.com/Mcrouse42/notetaker/blob/master/public/assets/images/homepage2.png" />
