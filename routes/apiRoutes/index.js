@@ -22,7 +22,7 @@ router.get("/notes/:id", (req, res) => {
 });
 
 // POST route for posting a new note to the server
-router.post("/notes", (req, res) => {
+router.post("/api/notes", (req, res) => {
   // req.body is wher our incoming content will be
   // Set id based on what the next index of the array will be
   req.body.id = notes.length.toString();
